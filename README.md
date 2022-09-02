@@ -10,7 +10,7 @@ As time goes on, functionalities and features will be added to suite a wide rang
 <hr>
 
 ## Dependencies
-- [Gum by charm.sh](https://github.com/charmbracelet/gum")
+- [Gum by charm.sh](https://github.com/charmbracelet/gum)
 
 ## Installation
 - Linux
