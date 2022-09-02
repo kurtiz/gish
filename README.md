@@ -29,7 +29,7 @@ As time goes on, functionalities and features will be added to suite a wide rang
     > chmod +x install.sh
     > ./install.sh
     ```
-- Window (you can install or activate WSL. Instructions are [here](https://microsoft.com) and follow the linux installation instruction)
+- Windows (you can install or activate WSL. Instructions are [here](https://microsoft.com) and follow the linux installation instruction)
     - Download gum binaries from the official repo. Link here ⏩ [gum](https://github.com/charmbracelet/gum/releases/tag/v0.5.0)
     - I recommend you create a folder in you drive *`C:`* folder and add the gum binaries to your environment path 
     - Clone the repository
