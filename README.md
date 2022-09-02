@@ -1,4 +1,5 @@
 # GISH (Git Shell Lite) [![wakatime](https://wakatime.com/badge/user/9657174f-2430-4dfd-aaef-2b316eb71a36/project/056ee404-9d7d-4840-a4d4-32d76d258663.svg)](https://wakatime.com/badge/user/9657174f-2430-4dfd-aaef-2b316eb71a36/project/056ee404-9d7d-4840-a4d4-32d76d258663)
+
 Gish is basically a light weight wrapper helps beginner use git from the terminal in an interactive way.
 
 This initial build is specifically made for GCTU's ESA Programming Community to help the beginners learning how to program get a used to using git from the terminal. It guides users on the basic operation of git.
@@ -6,6 +7,8 @@ This initial build is specifically made for GCTU's ESA Programming Community to 
 It is also streamlined to work with the process and style of teaching and learning employed the ESA community
 
 As time goes on, functionalities and features will be added to suite a wide range of users with.
+
+![gish](https://i.ibb.co/R21Jwr7/gish-eg.png)
 
 <hr>
 
