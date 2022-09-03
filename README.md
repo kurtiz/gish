@@ -21,7 +21,7 @@ As time goes on, functionalities and features will be added to suite a wider ran
     - Open folder in the terminal
     - Run the following commands
     ```bash
-    > chmod +x install.sh
+    > chmod +x install.sh gish.sh
     > ./install.sh
     ```
 - MacOS
@@ -29,7 +29,7 @@ As time goes on, functionalities and features will be added to suite a wider ran
     - Open folder in the terminal
     - Run the following commands
     ```bash
-    > chmod +x install.sh
+    > chmod +x install.sh gish.sh
     > ./install.sh
     ```
 - Windows (you can install or activate WSL. Instructions are [here](https://microsoft.com) and follow the linux installation instruction)
