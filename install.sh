@@ -9,7 +9,7 @@ debian_install(){
 
     sudo apt update && sudo apt install gum
 
-    cp gish.sh /usr/bin/gish
+    sudo cp gish.sh /usr/bin/gish
 }
 
 mac_install(){
