@@ -1,3 +1,5 @@
+#!/bin/sh
+
 col_red="#A62B1F"
 
 col_tinted_green="#214001"
