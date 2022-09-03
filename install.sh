@@ -14,7 +14,7 @@ debian_install(){
 
 mac_install(){
     brew install gum
-    cp gish.sh /usr/bin/gish
+    sudo cp gish.sh /usr/bin/gish
 }
 
 if which git; then
