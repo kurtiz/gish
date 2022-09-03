@@ -22,7 +22,7 @@ As time goes on, functionalities and features will be added to suite a wider ran
     - Run the following commands
     ```bash
     > chmod +x install.sh
-    > ./install_linux.sh
+    > ./install.sh
     ```
 - MacOS
     - Clone the repository
@@ -30,7 +30,7 @@ As time goes on, functionalities and features will be added to suite a wider ran
     - Run the following commands
     ```bash
     > chmod +x install.sh
-    > ./install_mac.sh
+    > ./install.sh
     ```
 - Windows (you can install or activate WSL. Instructions are [here](https://microsoft.com) and follow the linux installation instruction)
     - Download gum binaries from the official repo. Link here ⏩ [gum](https://github.com/charmbracelet/gum/releases/tag/v0.5.0)
