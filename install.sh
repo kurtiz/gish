@@ -9,11 +9,16 @@ debian_install(){
 
     sudo apt update && sudo apt install gum
 
+    chmod +x gish.sh
+
     sudo cp gish.sh /usr/bin/gish
 }
 
 mac_install(){
     brew install gum
+
+    chmod +x gish.sh
+
     sudo cp gish.sh /usr/bin/gish
 }
 
