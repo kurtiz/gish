@@ -1,13 +1,13 @@
 #!/bin/bash
 
 debian_install(){
-    echo "Adding source repository"
+    echo "Downloading dependencies..."
 
-    echo 'deb [trusted=yes] https://repo.charm.sh/apt/ /' | sudo tee /etc/apt/sources.list.d/charm.list
+    curl -O -L https://github.com/charmbracelet/gum/releases/download/v0.12.0/gum_0.12.0_amd64.deb
 
     echo "Updating OS and install gum"
 
-    sudo apt update && sudo apt install gum
+    sudo apt update && sudo dpkg -i gum_0.12.0_amd64.deb && sudo apt install --fix-broken
 
     chmod +x gish.sh
 
